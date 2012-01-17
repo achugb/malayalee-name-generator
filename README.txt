@@ -1,0 +1,1 @@
+This is a simple name generator app I made for fun. It puts random characters together according to a few rules to make names that sound Malayalee-ish. Doesn't work very well.
