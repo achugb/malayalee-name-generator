@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, name_gen!</string>
+    <string name="app_name">Malayalee Name Generator</string>
+    <string name="title">The Ultra Sooper Random\nMalayalee Name\nGenerator</string>
+    <string name="disclaimer">If you think this name cannot possibly exist, just wait. 
+    Some Mallu parent out there will name their kid this. Might take a year, might take 20, but it will happen.</string>
+    <string-array name="vowels">
+    	<item>a</item>
+    	<item>e</item>
+    	<item>i</item>
+    	<item>o</item>
+    	<item>u</item>
+    	<item>y</item>
+    	<item>oo</item>
+    	<item>ee</item>
+   	</string-array>
+	<string-array name="consonants">
+		<item>b</item>
+		<item>d</item>
+		<item>f</item>
+		<item>g</item>
+		<item>h</item>
+		<item>j</item>
+		<item>l</item>
+		<item>m</item>
+		<item>n</item>
+		<item>p</item>
+		<item>r</item>
+		<item>s</item>
+		<item>t</item>
+		<item>v</item>
+		<item>w</item>
+		<item>z</item>
+		<item>ch</item>
+		<item>th</item>
+		<item>sh</item>
+		<item>nn</item>
+		<item>jj</item>
+		<item>tt</item>
+		<item>ss</item>
+		<item>nt</item>
+		<item>pp</item>
+		<item>nj</item>
+	</string-array> 
+	<string-array name="suffixes">
+		<item>mon</item>
+		<item>kuttan</item>
+		<item>kutty</item>
+		<item>mol</item> 
+	</string-array>
+</resources>
